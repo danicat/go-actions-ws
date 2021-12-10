@@ -1,5 +1,5 @@
-name: Tweeter Action
-author: devigned
+name: Tweeter Action (GVC21 Workshop)
+author: danicat
 description: Simple action to send a tweet via an GitHub Action.
 inputs:
   message:
